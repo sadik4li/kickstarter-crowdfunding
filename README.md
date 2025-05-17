@@ -61,3 +61,5 @@ Sharp spike in projects during certain years, suggesting possible influence from
 Projects in creative categories (e.g., Art, Music, Games) tend to outperform others in terms of community support
 
 Long-term trends show gradual declines in total project submissions, possibly due to market saturation
+
+Preview : ![Dashboard Preview](

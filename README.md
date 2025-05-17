@@ -62,4 +62,4 @@ Projects in creative categories (e.g., Art, Music, Games) tend to outperform oth
 
 Long-term trends show gradual declines in total project submissions, possibly due to market saturation
 
-Preview : ![Dashboard Preview](
+Preview : ![Dashboard Preview](https://github.com/sadik4li/kickstarter-crowdfunding/blob/main/Screenshot%202025-05-17%20081756.png)
